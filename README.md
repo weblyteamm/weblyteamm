@@ -5,7 +5,7 @@ We build modern, scalable, and maintainable web apps.
 
 ### Shiva Shabbo(Frontend)
 - 💻 Skills: React, TypeScript, Next.js
-- 🔗 [GitHub]()
+- 🔗 [GitHub](https://github.com/shivashabbou-frontdev)
 
 ### Hananeh Ranjbaran(Backend)
 - 💻 Skills: C#, Python, ASP.NET Core

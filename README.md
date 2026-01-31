@@ -3,7 +3,7 @@
 A 2-person web development team specializing in **Frontend** & **Backend** solutions.  
 We build modern, scalable, and maintainable web apps.  
 
-### Shiva Shabbo(Frontend)
+### Shiva Shabbou(Frontend)
 - 💻 Skills: React, TypeScript, Next.js
 - 🔗 [GitHub](https://github.com/shivashabbou-frontdev)
 
